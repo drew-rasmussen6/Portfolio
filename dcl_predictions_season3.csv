@@ -1,0 +1,91 @@
+game_id,season,game_date,home_team,away_team,ballpark,weather_condition,temperature_f,home_sp_name,away_sp_name,home_team_win_pct,away_team_win_pct,home_runs_scored,away_runs_scored,home_team_wins,predicted_home_win_prob,predicted_home_wins,correct,winner_actual,winner_predicted
+181,3,2024-05-16,Maunesha River Rats,Wisconsin Cheese Kings,River Rats Ballpark,Clear,71.8,Derek Vandenberg,Brady Graham,0.5,0.5,4,2,1,0.3315,0,0,Maunesha River Rats,Wisconsin Cheese Kings
+182,3,2024-05-17,Maunesha River Rats,Wisconsin Cheese Kings,River Rats Ballpark,Clear,59.9,Luke Ehrhardt,Parker Yates,1.0,0.0,6,2,1,0.7867,1,1,Maunesha River Rats,Maunesha River Rats
+183,3,2024-05-18,Maunesha River Rats,Wisconsin Cheese Kings,River Rats Ballpark,Partly Cloudy,57.6,Hunter Werner,Garrett Bauer,1.0,0.0,3,1,1,0.6323,1,1,Maunesha River Rats,Maunesha River Rats
+184,3,2024-05-21,Maunesha River Rats,Northshore Bobbers,River Rats Ballpark,Clear,63.6,Liam Lehmann,Cameron Novak,1.0,0.5,6,4,1,0.7769,1,1,Maunesha River Rats,Maunesha River Rats
+185,3,2024-05-22,Maunesha River Rats,Northshore Bobbers,River Rats Ballpark,Windy,67.7,Derek Vandenberg,Sawyer Hagen,1.0,0.0,7,4,1,0.6852,1,1,Maunesha River Rats,Maunesha River Rats
+186,3,2024-05-23,Maunesha River Rats,Northshore Bobbers,River Rats Ballpark,Light Rain,53.7,Derek Vandenberg,Liam Bauer,1.0,0.0,3,2,1,0.9011,1,1,Maunesha River Rats,Maunesha River Rats
+187,3,2024-05-24,Maunesha River Rats,Lakeside Beach Bums,River Rats Ballpark,Light Rain,75.6,Derek Vandenberg,Owen Mueller,1.0,0.5,4,8,0,0.7951,1,0,Lakeside Beach Bums,Maunesha River Rats
+188,3,2024-05-25,Maunesha River Rats,Lakeside Beach Bums,River Rats Ballpark,Clear,57.4,Luke Ehrhardt,Nolan Xavier,0.857,1.0,5,7,0,0.579,1,0,Lakeside Beach Bums,Maunesha River Rats
+189,3,2024-05-26,Maunesha River Rats,Lakeside Beach Bums,River Rats Ballpark,Clear,56.1,Hunter Werner,Justin Ortega,0.75,1.0,6,4,1,0.6071,1,1,Maunesha River Rats,Maunesha River Rats
+190,3,2024-05-28,Maunesha River Rats,Johnson Creek Mapaches,River Rats Ballpark,Partly Cloudy,62.6,Liam Lehmann,Jackson Dietrich,0.778,0.5,8,3,1,0.8016,1,1,Maunesha River Rats,Maunesha River Rats
+191,3,2024-05-30,Maunesha River Rats,Johnson Creek Mapaches,River Rats Ballpark,Partly Cloudy,47.2,Derek Vandenberg,Eli Jorgensen,0.8,0.0,9,8,1,0.8869,1,1,Maunesha River Rats,Maunesha River Rats
+192,3,2024-05-31,Maunesha River Rats,Johnson Creek Mapaches,River Rats Ballpark,Partly Cloudy,70.4,Derek Vandenberg,Liam Schmidt,0.818,0.0,10,2,1,0.9322,1,1,Maunesha River Rats,Maunesha River Rats
+193,3,2024-06-01,Maunesha River Rats,Waukesha Foxes,River Rats Ballpark,Clear,74.7,Derek Vandenberg,Zach Evans,0.833,0.5,4,8,0,0.5497,1,0,Waukesha Foxes,Maunesha River Rats
+194,3,2024-06-02,Maunesha River Rats,Waukesha Foxes,River Rats Ballpark,Partly Cloudy,69.3,Luke Ehrhardt,Ryan Hagen,0.769,1.0,4,9,0,0.4296,0,1,Waukesha Foxes,Waukesha Foxes
+195,3,2024-06-03,Maunesha River Rats,Waukesha Foxes,River Rats Ballpark,Partly Cloudy,71.5,Hunter Werner,Caleb Schmidt,0.714,1.0,6,5,1,0.3686,0,0,Maunesha River Rats,Waukesha Foxes
+196,3,2024-06-05,Wisconsin Cheese Kings,Maunesha River Rats,Cheese Kings Ballpark,Overcast,82.9,Brady Graham,Liam Lehmann,0.0,0.733,5,4,1,0.1583,0,0,Wisconsin Cheese Kings,Maunesha River Rats
+197,3,2024-06-06,Wisconsin Cheese Kings,Maunesha River Rats,Cheese Kings Ballpark,Partly Cloudy,70.9,Parker Yates,Derek Vandenberg,0.25,0.688,5,4,1,0.6251,1,1,Wisconsin Cheese Kings,Wisconsin Cheese Kings
+198,3,2024-06-07,Wisconsin Cheese Kings,Maunesha River Rats,Cheese Kings Ballpark,Partly Cloudy,75.9,Garrett Bauer,Derek Vandenberg,0.4,0.647,4,5,0,0.8086,1,0,Maunesha River Rats,Wisconsin Cheese Kings
+199,3,2024-06-08,Wisconsin Cheese Kings,Northshore Bobbers,Cheese Kings Ballpark,Light Rain,91.3,Joshua Pierson,Cameron Novak,0.333,0.0,7,4,1,0.5582,1,1,Wisconsin Cheese Kings,Wisconsin Cheese Kings
+200,3,2024-06-09,Wisconsin Cheese Kings,Northshore Bobbers,Cheese Kings Ballpark,Partly Cloudy,75.0,Brady Graham,Sawyer Hagen,0.429,0.0,6,5,1,0.4686,0,0,Wisconsin Cheese Kings,Northshore Bobbers
+201,3,2024-06-10,Wisconsin Cheese Kings,Northshore Bobbers,Cheese Kings Ballpark,Light Rain,68.9,Brady Graham,Liam Bauer,0.5,0.0,13,10,1,0.5294,1,1,Wisconsin Cheese Kings,Wisconsin Cheese Kings
+202,3,2024-06-14,Wisconsin Cheese Kings,Lakeside Beach Bums,Cheese Kings Ballpark,Clear,76.1,Brady Graham,Owen Mueller,0.556,0.667,5,7,0,0.6445,1,0,Lakeside Beach Bums,Wisconsin Cheese Kings
+203,3,2024-06-15,Wisconsin Cheese Kings,Lakeside Beach Bums,Cheese Kings Ballpark,Partly Cloudy,72.3,Parker Yates,Nolan Xavier,0.5,0.75,9,5,1,0.7177,1,1,Wisconsin Cheese Kings,Wisconsin Cheese Kings
+204,3,2024-06-17,Wisconsin Cheese Kings,Lakeside Beach Bums,Cheese Kings Ballpark,Partly Cloudy,73.0,Garrett Bauer,Justin Ortega,0.545,0.6,10,9,1,0.7737,1,1,Wisconsin Cheese Kings,Wisconsin Cheese Kings
+205,3,2024-06-18,Wisconsin Cheese Kings,Johnson Creek Mapaches,Cheese Kings Ballpark,Light Rain,87.5,Joshua Pierson,Jackson Dietrich,0.583,0.0,7,4,1,0.8603,1,1,Wisconsin Cheese Kings,Wisconsin Cheese Kings
+206,3,2024-06-19,Wisconsin Cheese Kings,Johnson Creek Mapaches,Cheese Kings Ballpark,Partly Cloudy,69.7,Brady Graham,Eli Jorgensen,0.615,0.0,7,5,1,0.8017,1,1,Wisconsin Cheese Kings,Wisconsin Cheese Kings
+207,3,2024-06-20,Wisconsin Cheese Kings,Johnson Creek Mapaches,Cheese Kings Ballpark,Overcast,60.4,Brady Graham,Liam Schmidt,0.643,0.0,5,3,1,0.9225,1,1,Wisconsin Cheese Kings,Wisconsin Cheese Kings
+208,3,2024-06-21,Wisconsin Cheese Kings,Waukesha Foxes,Cheese Kings Ballpark,Overcast,73.9,Brady Graham,Zach Evans,0.667,0.667,2,7,0,0.5282,1,0,Waukesha Foxes,Wisconsin Cheese Kings
+209,3,2024-06-22,Wisconsin Cheese Kings,Waukesha Foxes,Cheese Kings Ballpark,Overcast,78.8,Parker Yates,Ryan Hagen,0.625,0.75,6,1,1,0.5139,1,1,Wisconsin Cheese Kings,Wisconsin Cheese Kings
+210,3,2024-06-23,Wisconsin Cheese Kings,Waukesha Foxes,Cheese Kings Ballpark,Partly Cloudy,82.6,Garrett Bauer,Caleb Schmidt,0.647,0.6,9,7,1,0.7228,1,1,Wisconsin Cheese Kings,Wisconsin Cheese Kings
+211,3,2024-06-24,Northshore Bobbers,Maunesha River Rats,Bobbers Ballpark,Clear,77.4,Cameron Novak,Derek Vandenberg,0.0,0.667,3,6,0,0.3096,0,1,Maunesha River Rats,Maunesha River Rats
+212,3,2024-06-25,Northshore Bobbers,Maunesha River Rats,Bobbers Ballpark,Clear,87.7,Sawyer Hagen,Luke Ehrhardt,0.0,0.684,5,6,0,0.2474,0,1,Maunesha River Rats,Maunesha River Rats
+213,3,2024-06-26,Northshore Bobbers,Maunesha River Rats,Bobbers Ballpark,Heavy Rain,77.4,Liam Bauer,Hunter Werner,0.0,0.7,2,7,0,0.2785,0,1,Maunesha River Rats,Maunesha River Rats
+214,3,2024-06-28,Northshore Bobbers,Wisconsin Cheese Kings,Bobbers Ballpark,Light Rain,74.0,Ethan O'Brien,Brady Graham,0.0,0.667,3,8,0,0.1386,0,1,Wisconsin Cheese Kings,Wisconsin Cheese Kings
+215,3,2024-06-29,Northshore Bobbers,Wisconsin Cheese Kings,Bobbers Ballpark,Overcast,82.0,Cameron Novak,Parker Yates,0.0,0.684,12,8,1,0.2577,0,0,Northshore Bobbers,Wisconsin Cheese Kings
+216,3,2024-06-30,Northshore Bobbers,Wisconsin Cheese Kings,Bobbers Ballpark,Overcast,91.0,Cameron Novak,Garrett Bauer,0.091,0.65,3,2,1,0.0762,0,0,Northshore Bobbers,Wisconsin Cheese Kings
+217,3,2024-07-01,Northshore Bobbers,Lakeside Beach Bums,Bobbers Ballpark,Clear,78.4,Cameron Novak,Owen Mueller,0.167,0.5,7,8,0,0.4379,0,1,Lakeside Beach Bums,Lakeside Beach Bums
+218,3,2024-07-02,Northshore Bobbers,Lakeside Beach Bums,Bobbers Ballpark,Clear,76.1,Sawyer Hagen,Nolan Xavier,0.154,0.571,0,5,0,0.5409,1,0,Lakeside Beach Bums,Northshore Bobbers
+219,3,2024-07-03,Northshore Bobbers,Lakeside Beach Bums,Bobbers Ballpark,Partly Cloudy,84.9,Liam Bauer,Justin Ortega,0.143,0.625,4,6,0,0.185,0,1,Lakeside Beach Bums,Lakeside Beach Bums
+220,3,2024-07-04,Northshore Bobbers,Johnson Creek Mapaches,Bobbers Ballpark,Clear,87.5,Ethan O'Brien,Jackson Dietrich,0.133,0.0,4,2,1,0.3004,0,0,Northshore Bobbers,Johnson Creek Mapaches
+221,3,2024-07-05,Northshore Bobbers,Johnson Creek Mapaches,Bobbers Ballpark,Clear,80.3,Cameron Novak,Eli Jorgensen,0.188,0.0,6,8,0,0.5956,1,0,Johnson Creek Mapaches,Northshore Bobbers
+222,3,2024-07-06,Northshore Bobbers,Johnson Creek Mapaches,Bobbers Ballpark,Clear,74.3,Cameron Novak,Liam Schmidt,0.176,0.125,6,5,1,0.8188,1,1,Northshore Bobbers,Northshore Bobbers
+223,3,2024-07-07,Northshore Bobbers,Waukesha Foxes,Bobbers Ballpark,Clear,78.9,Cameron Novak,Zach Evans,0.222,0.5,9,5,1,0.3897,0,0,Northshore Bobbers,Waukesha Foxes
+224,3,2024-07-08,Northshore Bobbers,Waukesha Foxes,Bobbers Ballpark,Overcast,94.8,Sawyer Hagen,Ryan Hagen,0.263,0.429,6,9,0,0.2461,0,1,Waukesha Foxes,Waukesha Foxes
+225,3,2024-07-10,Northshore Bobbers,Waukesha Foxes,Bobbers Ballpark,Clear,78.3,Liam Bauer,Caleb Schmidt,0.25,0.5,8,7,1,0.3459,0,0,Northshore Bobbers,Waukesha Foxes
+226,3,2024-07-11,Lakeside Beach Bums,Maunesha River Rats,Beach Bums Ballpark,Overcast,71.4,Owen Mueller,Derek Vandenberg,0.667,0.714,10,6,1,0.6216,1,1,Lakeside Beach Bums,Lakeside Beach Bums
+227,3,2024-07-12,Lakeside Beach Bums,Maunesha River Rats,Beach Bums Ballpark,Overcast,80.9,Nolan Xavier,Luke Ehrhardt,0.7,0.682,3,6,0,0.5932,1,0,Maunesha River Rats,Lakeside Beach Bums
+228,3,2024-07-13,Lakeside Beach Bums,Maunesha River Rats,Beach Bums Ballpark,Clear,73.7,Justin Ortega,Hunter Werner,0.636,0.696,8,10,0,0.6508,1,0,Maunesha River Rats,Lakeside Beach Bums
+229,3,2024-07-15,Lakeside Beach Bums,Wisconsin Cheese Kings,Beach Bums Ballpark,Clear,86.7,Bryce Vogel,Brady Graham,0.583,0.619,2,11,0,0.4422,0,1,Wisconsin Cheese Kings,Wisconsin Cheese Kings
+230,3,2024-07-16,Lakeside Beach Bums,Wisconsin Cheese Kings,Beach Bums Ballpark,Clear,71.3,Owen Mueller,Parker Yates,0.538,0.636,5,3,1,0.3649,0,0,Lakeside Beach Bums,Wisconsin Cheese Kings
+231,3,2024-07-17,Lakeside Beach Bums,Wisconsin Cheese Kings,Beach Bums Ballpark,Partly Cloudy,76.5,Owen Mueller,Garrett Bauer,0.571,0.609,5,6,0,0.2444,0,1,Wisconsin Cheese Kings,Wisconsin Cheese Kings
+232,3,2024-07-18,Lakeside Beach Bums,Northshore Bobbers,Beach Bums Ballpark,Heavy Rain,77.6,Owen Mueller,Cameron Novak,0.533,0.286,4,3,1,0.8208,1,1,Lakeside Beach Bums,Lakeside Beach Bums
+233,3,2024-07-19,Lakeside Beach Bums,Northshore Bobbers,Beach Bums Ballpark,Clear,92.0,Nolan Xavier,Sawyer Hagen,0.562,0.273,4,8,0,0.2587,0,1,Northshore Bobbers,Northshore Bobbers
+234,3,2024-07-21,Lakeside Beach Bums,Northshore Bobbers,Beach Bums Ballpark,Heavy Rain,87.7,Justin Ortega,Liam Bauer,0.529,0.304,6,4,1,0.6434,1,1,Lakeside Beach Bums,Lakeside Beach Bums
+235,3,2024-07-22,Lakeside Beach Bums,Johnson Creek Mapaches,Beach Bums Ballpark,Partly Cloudy,78.9,Bryce Vogel,Jackson Dietrich,0.556,0.111,5,7,0,0.7573,1,0,Johnson Creek Mapaches,Lakeside Beach Bums
+236,3,2024-07-24,Lakeside Beach Bums,Johnson Creek Mapaches,Beach Bums Ballpark,Overcast,87.7,Owen Mueller,Eli Jorgensen,0.526,0.2,5,3,1,0.6163,1,1,Lakeside Beach Bums,Lakeside Beach Bums
+237,3,2024-07-26,Lakeside Beach Bums,Johnson Creek Mapaches,Beach Bums Ballpark,Heavy Rain,77.1,Owen Mueller,Liam Schmidt,0.55,0.182,5,8,0,0.8865,1,0,Johnson Creek Mapaches,Lakeside Beach Bums
+238,3,2024-07-27,Lakeside Beach Bums,Waukesha Foxes,Beach Bums Ballpark,Clear,75.1,Owen Mueller,Zach Evans,0.524,0.444,3,5,0,0.5056,1,0,Waukesha Foxes,Lakeside Beach Bums
+239,3,2024-07-28,Lakeside Beach Bums,Waukesha Foxes,Beach Bums Ballpark,Clear,90.5,Nolan Xavier,Ryan Hagen,0.5,0.5,5,8,0,0.3521,0,1,Waukesha Foxes,Waukesha Foxes
+240,3,2024-07-29,Lakeside Beach Bums,Waukesha Foxes,Beach Bums Ballpark,Partly Cloudy,87.2,Justin Ortega,Caleb Schmidt,0.478,0.545,6,4,1,0.2826,0,0,Lakeside Beach Bums,Waukesha Foxes
+241,3,2024-07-30,Johnson Creek Mapaches,Maunesha River Rats,Mapaches Ballpark,Partly Cloudy,88.4,Jackson Dietrich,Derek Vandenberg,0.25,0.708,2,6,0,0.3072,0,1,Maunesha River Rats,Maunesha River Rats
+242,3,2024-07-31,Johnson Creek Mapaches,Maunesha River Rats,Mapaches Ballpark,Clear,80.6,Eli Jorgensen,Luke Ehrhardt,0.231,0.72,2,3,0,0.487,0,1,Maunesha River Rats,Maunesha River Rats
+243,3,2024-08-01,Johnson Creek Mapaches,Maunesha River Rats,Mapaches Ballpark,Overcast,69.7,Liam Schmidt,Hunter Werner,0.214,0.731,6,4,1,0.4707,0,0,Johnson Creek Mapaches,Maunesha River Rats
+244,3,2024-08-02,Johnson Creek Mapaches,Wisconsin Cheese Kings,Mapaches Ballpark,Partly Cloudy,79.1,Owen Vogel,Brady Graham,0.267,0.625,10,8,1,0.3045,0,0,Johnson Creek Mapaches,Wisconsin Cheese Kings
+245,3,2024-08-04,Johnson Creek Mapaches,Wisconsin Cheese Kings,Mapaches Ballpark,Clear,72.9,Jackson Dietrich,Parker Yates,0.312,0.6,2,11,0,0.3084,0,1,Wisconsin Cheese Kings,Wisconsin Cheese Kings
+246,3,2024-08-05,Johnson Creek Mapaches,Wisconsin Cheese Kings,Mapaches Ballpark,Clear,75.0,Jackson Dietrich,Garrett Bauer,0.294,0.615,1,9,0,0.1506,0,1,Wisconsin Cheese Kings,Wisconsin Cheese Kings
+247,3,2024-08-06,Johnson Creek Mapaches,Northshore Bobbers,Mapaches Ballpark,Clear,78.3,Jackson Dietrich,Cameron Novak,0.278,0.292,10,8,1,0.6999,1,1,Johnson Creek Mapaches,Johnson Creek Mapaches
+248,3,2024-08-07,Johnson Creek Mapaches,Northshore Bobbers,Mapaches Ballpark,Overcast,83.5,Eli Jorgensen,Sawyer Hagen,0.316,0.28,6,5,1,0.4402,0,0,Johnson Creek Mapaches,Northshore Bobbers
+249,3,2024-08-08,Johnson Creek Mapaches,Northshore Bobbers,Mapaches Ballpark,Partly Cloudy,72.2,Liam Schmidt,Liam Bauer,0.35,0.269,9,13,0,0.4391,0,1,Northshore Bobbers,Northshore Bobbers
+250,3,2024-08-09,Johnson Creek Mapaches,Lakeside Beach Bums,Mapaches Ballpark,Partly Cloudy,78.3,Owen Vogel,Owen Mueller,0.333,0.5,2,7,0,0.648,1,0,Lakeside Beach Bums,Johnson Creek Mapaches
+251,3,2024-08-10,Johnson Creek Mapaches,Lakeside Beach Bums,Mapaches Ballpark,Clear,72.6,Jackson Dietrich,Nolan Xavier,0.318,0.52,3,7,0,0.6367,1,0,Lakeside Beach Bums,Johnson Creek Mapaches
+252,3,2024-08-11,Johnson Creek Mapaches,Lakeside Beach Bums,Mapaches Ballpark,Windy,86.1,Jackson Dietrich,Justin Ortega,0.304,0.538,7,5,1,0.1706,0,0,Johnson Creek Mapaches,Lakeside Beach Bums
+253,3,2024-08-12,Johnson Creek Mapaches,Waukesha Foxes,Mapaches Ballpark,Overcast,76.4,Jackson Dietrich,Zach Evans,0.333,0.5,7,6,1,0.2544,0,0,Johnson Creek Mapaches,Waukesha Foxes
+254,3,2024-08-13,Johnson Creek Mapaches,Waukesha Foxes,Mapaches Ballpark,Light Rain,68.9,Eli Jorgensen,Ryan Hagen,0.36,0.462,8,7,1,0.6415,1,1,Johnson Creek Mapaches,Johnson Creek Mapaches
+255,3,2024-08-14,Johnson Creek Mapaches,Waukesha Foxes,Mapaches Ballpark,Clear,78.8,Liam Schmidt,Caleb Schmidt,0.385,0.429,6,4,1,0.4173,0,0,Johnson Creek Mapaches,Waukesha Foxes
+256,3,2024-08-16,Waukesha Foxes,Maunesha River Rats,Foxes Ballpark,Clear,87.2,Cole Davis,Derek Vandenberg,0.4,0.704,11,5,1,0.3557,0,0,Waukesha Foxes,Maunesha River Rats
+257,3,2024-08-17,Waukesha Foxes,Maunesha River Rats,Foxes Ballpark,Clear,74.1,Zach Evans,Luke Ehrhardt,0.438,0.679,7,2,1,0.6687,1,1,Waukesha Foxes,Waukesha Foxes
+258,3,2024-08-19,Waukesha Foxes,Maunesha River Rats,Foxes Ballpark,Partly Cloudy,82.9,Zach Evans,Hunter Werner,0.471,0.655,9,5,1,0.4491,0,0,Waukesha Foxes,Maunesha River Rats
+259,3,2024-08-20,Waukesha Foxes,Wisconsin Cheese Kings,Foxes Ballpark,Clear,77.0,Zach Evans,Brady Graham,0.5,0.63,6,4,1,0.2515,0,0,Waukesha Foxes,Wisconsin Cheese Kings
+260,3,2024-08-21,Waukesha Foxes,Wisconsin Cheese Kings,Foxes Ballpark,Light Rain,81.5,Ryan Hagen,Parker Yates,0.526,0.607,9,5,1,0.495,0,0,Waukesha Foxes,Wisconsin Cheese Kings
+261,3,2024-08-22,Waukesha Foxes,Wisconsin Cheese Kings,Foxes Ballpark,Light Rain,64.1,Caleb Schmidt,Garrett Bauer,0.55,0.586,6,5,1,0.3224,0,0,Waukesha Foxes,Wisconsin Cheese Kings
+262,3,2024-08-23,Waukesha Foxes,Northshore Bobbers,Foxes Ballpark,Light Rain,79.0,Cole Davis,Cameron Novak,0.571,0.296,7,6,1,0.7736,1,1,Waukesha Foxes,Waukesha Foxes
+263,3,2024-08-24,Waukesha Foxes,Northshore Bobbers,Foxes Ballpark,Partly Cloudy,76.2,Zach Evans,Sawyer Hagen,0.591,0.286,12,8,1,0.3792,0,0,Waukesha Foxes,Northshore Bobbers
+264,3,2024-08-25,Waukesha Foxes,Northshore Bobbers,Foxes Ballpark,Clear,78.0,Zach Evans,Liam Bauer,0.609,0.276,9,2,1,0.2947,0,0,Waukesha Foxes,Northshore Bobbers
+265,3,2024-08-26,Waukesha Foxes,Lakeside Beach Bums,Foxes Ballpark,Partly Cloudy,70.5,Zach Evans,Owen Mueller,0.625,0.519,6,8,0,0.7603,1,0,Lakeside Beach Bums,Waukesha Foxes
+266,3,2024-08-27,Waukesha Foxes,Lakeside Beach Bums,Foxes Ballpark,Clear,69.3,Ryan Hagen,Nolan Xavier,0.6,0.536,7,6,1,0.8534,1,1,Waukesha Foxes,Waukesha Foxes
+267,3,2024-08-28,Waukesha Foxes,Lakeside Beach Bums,Foxes Ballpark,Light Rain,70.4,Caleb Schmidt,Justin Ortega,0.615,0.517,7,2,1,0.7199,1,1,Waukesha Foxes,Waukesha Foxes
+268,3,2024-08-29,Waukesha Foxes,Johnson Creek Mapaches,Foxes Ballpark,Partly Cloudy,88.2,Cole Davis,Jackson Dietrich,0.63,0.407,11,8,1,0.7299,1,1,Waukesha Foxes,Waukesha Foxes
+269,3,2024-08-31,Waukesha Foxes,Johnson Creek Mapaches,Foxes Ballpark,Partly Cloudy,63.1,Zach Evans,Eli Jorgensen,0.643,0.393,7,2,1,0.8753,1,1,Waukesha Foxes,Waukesha Foxes
+270,3,2024-09-01,Waukesha Foxes,Johnson Creek Mapaches,Foxes Ballpark,Partly Cloudy,72.8,Zach Evans,Liam Schmidt,0.655,0.379,7,3,1,0.915,1,1,Waukesha Foxes,Waukesha Foxes
