@@ -1,0 +1,97 @@
+player_id,team,name,type,position,batting_avg,obp,slg,ops,at_bats,hits,home_runs,rbi,stolen_bases,walks,strikeouts_bat,k_rate,bb_rate,skill_latent,era,whip,k9,bb9,innings_pitched,wins,losses,saves,days_rest
+1,Maunesha River Rats,Tristan Young,batter,C,0.316,0.398,0.535,0.933,90.0,28.0,0.0,24.0,0.0,6.0,19.0,0.198,0.062,0.521,,,,,,,,,
+2,Maunesha River Rats,Grant Bauer,batter,1B,0.287,0.357,0.364,0.721,148.0,42.0,1.0,16.0,0.0,6.0,29.0,0.188,0.039,0.387,,,,,,,,,
+3,Maunesha River Rats,Grayson Jensen,batter,2B,0.282,0.333,0.375,0.708,187.0,52.0,1.0,33.0,3.0,15.0,23.0,0.114,0.074,0.741,,,,,,,,,
+4,Maunesha River Rats,Miles Hoffman,batter,3B,0.25,0.297,0.353,0.65,101.0,25.0,0.0,15.0,2.0,8.0,23.0,0.211,0.073,0.346,,,,,,,,,
+5,Maunesha River Rats,Xavier Xiong,batter,SS,0.305,0.367,0.44,0.807,148.0,45.0,2.0,11.0,10.0,7.0,16.0,0.103,0.045,0.618,,,,,,,,,
+6,Maunesha River Rats,Liam Ulrich,batter,LF,0.257,0.323,0.376,0.699,89.0,22.0,2.0,6.0,2.0,6.0,38.0,0.4,0.063,0.344,,,,,,,,,
+7,Maunesha River Rats,Luke Palmer,batter,CF,0.234,0.286,0.349,0.635,218.0,51.0,0.0,13.0,1.0,6.0,35.0,0.156,0.027,0.309,,,,,,,,,
+8,Maunesha River Rats,Weston Turner,batter,RF,0.254,0.317,0.408,0.725,158.0,40.0,1.0,14.0,3.0,10.0,42.0,0.25,0.06,0.42,,,,,,,,,
+9,Maunesha River Rats,Quinn Kowalski,batter,DH,0.248,0.317,0.315,0.632,82.0,20.0,0.0,14.0,0.0,6.0,15.0,0.17,0.068,0.289,,,,,,,,,
+10,Maunesha River Rats,Owen Lehmann,batter,OF,0.324,0.355,0.499,0.854,130.0,42.0,1.0,16.0,4.0,9.0,19.0,0.137,0.065,0.413,,,,,,,,,
+11,Maunesha River Rats,Derek Vandenberg,pitcher,SP,,,,,,,,,,,,,,0.583,3.05,1.308,8.77,3.16,18.4,2.0,1.0,0.0,4.0
+12,Maunesha River Rats,Luke Ehrhardt,pitcher,SP,,,,,,,,,,,,,,0.354,3.76,1.392,7.01,3.63,29.6,0.0,3.0,0.0,5.0
+13,Maunesha River Rats,Hunter Werner,pitcher,SP,,,,,,,,,,,,,,0.329,4.09,1.363,6.8,3.87,55.2,0.0,2.0,0.0,4.0
+14,Maunesha River Rats,Liam Lehmann,pitcher,SP,,,,,,,,,,,,,,0.612,1.97,1.211,8.81,3.2,26.4,1.0,1.0,0.0,5.0
+15,Maunesha River Rats,Trevor Schmidt,pitcher,RP,,,,,,,,,,,,,,0.584,3.24,1.209,8.78,3.13,24.6,1.0,0.0,4.0,7.0
+16,Maunesha River Rats,Nick Burkhart,pitcher,RP,,,,,,,,,,,,,,0.465,3.14,1.306,8.06,3.78,4.4,0.0,0.0,0.0,4.0
+17,Wisconsin Cheese Kings,Kevin Werner,batter,C,0.278,0.323,0.362,0.685,123.0,34.0,0.0,20.0,0.0,9.0,19.0,0.144,0.068,0.47,,,,,,,,,
+18,Wisconsin Cheese Kings,Marcus Sullivan,batter,1B,0.24,0.279,0.425,0.704,199.0,47.0,0.0,23.0,5.0,6.0,23.0,0.112,0.029,0.464,,,,,,,,,
+19,Wisconsin Cheese Kings,Noah Falk,batter,2B,0.298,0.388,0.491,0.879,123.0,36.0,2.0,16.0,4.0,9.0,44.0,0.333,0.068,0.414,,,,,,,,,
+20,Wisconsin Cheese Kings,Jared Dietrich,batter,3B,0.313,0.349,0.408,0.757,147.0,46.0,2.0,29.0,2.0,13.0,16.0,0.1,0.081,0.684,,,,,,,,,
+21,Wisconsin Cheese Kings,Grayson Fowler,batter,SS,0.307,0.372,0.486,0.858,94.0,28.0,2.0,20.0,0.0,9.0,36.0,0.35,0.087,0.502,,,,,,,,,
+22,Wisconsin Cheese Kings,Owen Fischer,batter,LF,0.251,0.303,0.332,0.635,209.0,52.0,1.0,14.0,1.0,10.0,29.0,0.132,0.046,0.619,,,,,,,,,
+23,Wisconsin Cheese Kings,Colton Christensen,batter,CF,0.277,0.341,0.366,0.707,189.0,52.0,0.0,14.0,1.0,7.0,46.0,0.235,0.036,0.312,,,,,,,,,
+24,Wisconsin Cheese Kings,Cameron Rohde,batter,RF,0.236,0.319,0.454,0.773,203.0,47.0,1.0,7.0,9.0,10.0,19.0,0.089,0.047,0.504,,,,,,,,,
+25,Wisconsin Cheese Kings,Jared Falk,batter,DH,0.26,0.332,0.412,0.744,184.0,47.0,2.0,12.0,2.0,7.0,41.0,0.215,0.037,0.412,,,,,,,,,
+26,Wisconsin Cheese Kings,Cody Turner,batter,OF,0.254,0.32,0.448,0.768,143.0,36.0,1.0,11.0,0.0,5.0,37.0,0.25,0.034,0.282,,,,,,,,,
+27,Wisconsin Cheese Kings,Brady Graham,pitcher,SP,,,,,,,,,,,,,,0.519,4.35,1.119,9.07,3.75,52.4,3.0,1.0,0.0,5.0
+28,Wisconsin Cheese Kings,Parker Yates,pitcher,SP,,,,,,,,,,,,,,0.51,3.91,1.244,8.46,3.65,20.9,1.0,0.0,0.0,5.0
+29,Wisconsin Cheese Kings,Garrett Bauer,pitcher,SP,,,,,,,,,,,,,,0.703,2.85,1.232,9.98,2.11,65.7,4.0,1.0,0.0,7.0
+30,Wisconsin Cheese Kings,Joshua Pierson,pitcher,SP,,,,,,,,,,,,,,0.475,3.64,1.254,7.26,3.97,34.1,2.0,0.0,0.0,7.0
+31,Wisconsin Cheese Kings,Derek Jensen,pitcher,RP,,,,,,,,,,,,,,0.3,3.9,1.262,6.86,4.16,26.6,1.0,2.0,2.0,6.0
+32,Wisconsin Cheese Kings,Daniel Voss,pitcher,RP,,,,,,,,,,,,,,0.734,2.82,1.025,9.46,2.5,22.1,0.0,0.0,2.0,5.0
+33,Northshore Bobbers,Kevin Lehmann,batter,C,0.28,0.363,0.423,0.786,166.0,46.0,1.0,16.0,2.0,6.0,20.0,0.116,0.035,0.44,,,,,,,,,
+34,Northshore Bobbers,Bryce Robinson,batter,1B,0.257,0.306,0.361,0.667,154.0,39.0,1.0,11.0,0.0,5.0,29.0,0.182,0.031,0.309,,,,,,,,,
+35,Northshore Bobbers,Kevin Carlson,batter,2B,0.302,0.387,0.432,0.819,97.0,29.0,2.0,13.0,0.0,6.0,25.0,0.243,0.058,0.334,,,,,,,,,
+36,Northshore Bobbers,Caleb Nelson,batter,3B,0.266,0.313,0.474,0.787,188.0,50.0,0.0,16.0,4.0,11.0,28.0,0.141,0.055,0.447,,,,,,,,,
+37,Northshore Bobbers,Cole Anderson,batter,SS,0.245,0.29,0.374,0.664,193.0,47.0,0.0,6.0,9.0,9.0,28.0,0.139,0.045,0.524,,,,,,,,,
+38,Northshore Bobbers,Spencer Irvine,batter,LF,0.271,0.325,0.399,0.724,143.0,38.0,2.0,17.0,4.0,8.0,16.0,0.106,0.053,0.397,,,,,,,,,
+39,Northshore Bobbers,Justin Werner,batter,CF,0.273,0.313,0.334,0.647,83.0,22.0,0.0,18.0,6.0,6.0,35.0,0.393,0.067,0.52,,,,,,,,,
+40,Northshore Bobbers,Brady Larson,batter,RF,0.32,0.362,0.426,0.788,126.0,40.0,2.0,33.0,10.0,5.0,21.0,0.16,0.038,0.651,,,,,,,,,
+41,Northshore Bobbers,Marcus Morrison,batter,DH,0.314,0.399,0.399,0.798,183.0,57.0,2.0,25.0,0.0,15.0,18.0,0.091,0.076,0.6,,,,,,,,,
+42,Northshore Bobbers,Justin Lehmann,batter,OF,0.229,0.291,0.347,0.638,130.0,29.0,0.0,10.0,3.0,7.0,19.0,0.139,0.051,0.337,,,,,,,,,
+43,Northshore Bobbers,Cameron Novak,pitcher,SP,,,,,,,,,,,,,,0.4,4.23,1.414,7.51,3.14,31.9,0.0,2.0,0.0,5.0
+44,Northshore Bobbers,Sawyer Hagen,pitcher,SP,,,,,,,,,,,,,,0.477,2.76,1.348,8.86,2.7,68.9,0.0,0.0,0.0,5.0
+45,Northshore Bobbers,Liam Bauer,pitcher,SP,,,,,,,,,,,,,,0.36,3.8,1.318,7.72,3.93,33.8,1.0,2.0,0.0,5.0
+46,Northshore Bobbers,Ethan O'Brien,pitcher,SP,,,,,,,,,,,,,,0.326,4.26,1.267,6.83,4.55,15.7,1.0,2.0,0.0,4.0
+47,Northshore Bobbers,Grant Lambert,pitcher,RP,,,,,,,,,,,,,,0.482,3.74,1.38,10.64,4.19,20.0,1.0,2.0,1.0,4.0
+48,Northshore Bobbers,Garrett Ingram,pitcher,RP,,,,,,,,,,,,,,0.246,4.3,1.398,8.07,3.21,23.8,0.0,3.0,3.0,5.0
+49,Lakeside Beach Bums,Sawyer Nelson,batter,C,0.294,0.37,0.375,0.745,168.0,49.0,0.0,13.0,0.0,5.0,31.0,0.179,0.029,0.621,,,,,,,,,
+50,Lakeside Beach Bums,Xavier Dietrich,batter,1B,0.275,0.338,0.455,0.793,162.0,44.0,0.0,8.0,3.0,8.0,38.0,0.224,0.047,0.473,,,,,,,,,
+51,Lakeside Beach Bums,Marcus Burkhart,batter,2B,0.27,0.352,0.398,0.75,192.0,51.0,0.0,25.0,4.0,10.0,29.0,0.144,0.05,0.536,,,,,,,,,
+52,Lakeside Beach Bums,Cole Strang,batter,3B,0.273,0.312,0.442,0.754,169.0,46.0,1.0,12.0,5.0,6.0,35.0,0.2,0.034,0.363,,,,,,,,,
+53,Lakeside Beach Bums,Colton Rasmussen,batter,SS,0.247,0.326,0.359,0.685,111.0,27.0,1.0,15.0,7.0,8.0,18.0,0.151,0.067,0.436,,,,,,,,,
+54,Lakeside Beach Bums,Sean Fischer,batter,LF,0.285,0.375,0.379,0.754,180.0,51.0,0.0,5.0,9.0,6.0,25.0,0.134,0.032,0.598,,,,,,,,,
+55,Lakeside Beach Bums,Weston Aldrich,batter,CF,0.266,0.314,0.327,0.641,99.0,26.0,0.0,13.0,7.0,5.0,25.0,0.24,0.048,0.432,,,,,,,,,
+56,Lakeside Beach Bums,Ethan Quinn,batter,RF,0.277,0.37,0.439,0.809,104.0,28.0,0.0,9.0,6.0,7.0,36.0,0.324,0.063,0.356,,,,,,,,,
+57,Lakeside Beach Bums,Brady Hansen,batter,DH,0.255,0.327,0.354,0.681,152.0,38.0,1.0,5.0,1.0,5.0,38.0,0.242,0.032,0.383,,,,,,,,,
+58,Lakeside Beach Bums,Quinn Robinson,batter,OF,0.266,0.356,0.366,0.722,218.0,57.0,1.0,20.0,5.0,10.0,20.0,0.088,0.044,0.501,,,,,,,,,
+59,Lakeside Beach Bums,Owen Mueller,pitcher,SP,,,,,,,,,,,,,,0.389,3.91,1.199,8.6,3.82,14.7,1.0,2.0,0.0,4.0
+60,Lakeside Beach Bums,Nolan Xavier,pitcher,SP,,,,,,,,,,,,,,0.42,3.4,1.389,8.66,4.4,35.8,0.0,3.0,0.0,4.0
+61,Lakeside Beach Bums,Justin Ortega,pitcher,SP,,,,,,,,,,,,,,0.561,2.63,1.336,8.49,3.76,71.0,1.0,2.0,0.0,5.0
+62,Lakeside Beach Bums,Bryce Vogel,pitcher,SP,,,,,,,,,,,,,,0.467,3.71,1.317,7.44,3.86,68.4,1.0,0.0,0.0,4.0
+63,Lakeside Beach Bums,Nathan Robinson,pitcher,RP,,,,,,,,,,,,,,0.409,2.85,1.101,8.05,3.66,22.7,1.0,0.0,3.0,10.0
+64,Lakeside Beach Bums,Ryan Davis,pitcher,RP,,,,,,,,,,,,,,0.561,3.06,1.291,9.5,3.7,8.4,2.0,0.0,1.0,7.0
+65,Johnson Creek Mapaches,Ryan Young,batter,C,0.222,0.265,0.359,0.624,107.0,23.0,0.0,14.0,2.0,6.0,36.0,0.319,0.053,0.32,,,,,,,,,
+66,Johnson Creek Mapaches,Weston Rasmussen,batter,1B,0.284,0.321,0.475,0.796,155.0,44.0,1.0,26.0,9.0,8.0,31.0,0.19,0.049,0.534,,,,,,,,,
+67,Johnson Creek Mapaches,Tyler Quinn,batter,2B,0.306,0.39,0.441,0.831,111.0,33.0,2.0,12.0,8.0,5.0,15.0,0.129,0.043,0.572,,,,,,,,,
+68,Johnson Creek Mapaches,Travis Davis,batter,3B,0.24,0.304,0.36,0.664,81.0,19.0,1.0,24.0,5.0,7.0,36.0,0.409,0.08,0.472,,,,,,,,,
+69,Johnson Creek Mapaches,Tanner Hansen,batter,SS,0.348,0.423,0.509,0.932,185.0,64.0,1.0,21.0,7.0,9.0,25.0,0.129,0.046,0.533,,,,,,,,,
+70,Johnson Creek Mapaches,Ryan Carlson,batter,LF,0.311,0.399,0.524,0.923,186.0,57.0,1.0,19.0,8.0,7.0,33.0,0.171,0.036,0.595,,,,,,,,,
+71,Johnson Creek Mapaches,Owen Zimmerman,batter,CF,0.295,0.342,0.444,0.786,211.0,62.0,2.0,11.0,7.0,6.0,19.0,0.088,0.028,0.493,,,,,,,,,
+72,Johnson Creek Mapaches,Parker Young,batter,RF,0.309,0.381,0.482,0.863,86.0,26.0,0.0,5.0,7.0,10.0,25.0,0.26,0.104,0.497,,,,,,,,,
+73,Johnson Creek Mapaches,Tristan Rasmussen,batter,DH,0.267,0.301,0.471,0.772,183.0,48.0,1.0,6.0,7.0,11.0,19.0,0.098,0.057,0.474,,,,,,,,,
+74,Johnson Creek Mapaches,Adam Krueger,batter,OF,0.314,0.397,0.438,0.835,146.0,45.0,0.0,23.0,1.0,5.0,15.0,0.099,0.033,0.449,,,,,,,,,
+75,Johnson Creek Mapaches,Jackson Dietrich,pitcher,SP,,,,,,,,,,,,,,0.589,3.36,1.323,9.2,3.47,46.5,1.0,0.0,0.0,4.0
+76,Johnson Creek Mapaches,Eli Jorgensen,pitcher,SP,,,,,,,,,,,,,,0.366,3.7,1.587,8.72,4.14,55.0,1.0,0.0,0.0,6.0
+77,Johnson Creek Mapaches,Liam Schmidt,pitcher,SP,,,,,,,,,,,,,,0.414,4.13,1.275,7.73,3.02,63.5,2.0,3.0,0.0,4.0
+78,Johnson Creek Mapaches,Owen Vogel,pitcher,SP,,,,,,,,,,,,,,0.401,4.33,1.29,8.25,2.49,19.8,1.0,3.0,0.0,4.0
+79,Johnson Creek Mapaches,Blake Callahan,pitcher,RP,,,,,,,,,,,,,,0.314,3.79,1.402,7.27,3.36,16.5,1.0,2.0,1.0,6.0
+80,Johnson Creek Mapaches,Marcus Xavier,pitcher,RP,,,,,,,,,,,,,,0.357,4.29,1.421,8.59,3.58,4.7,0.0,2.0,1.0,4.0
+81,Waukesha Foxes,Sean Krueger,batter,C,0.27,0.331,0.465,0.796,166.0,44.0,2.0,15.0,3.0,10.0,17.0,0.097,0.057,0.465,,,,,,,,,
+82,Waukesha Foxes,Jake Quinn,batter,1B,0.246,0.324,0.43,0.754,211.0,51.0,2.0,5.0,1.0,6.0,44.0,0.203,0.028,0.336,,,,,,,,,
+83,Waukesha Foxes,Kevin Anderson,batter,2B,0.346,0.434,0.512,0.946,88.0,30.0,3.0,29.0,3.0,11.0,18.0,0.182,0.111,0.572,,,,,,,,,
+84,Waukesha Foxes,Colton Rohde,batter,3B,0.263,0.326,0.38,0.706,156.0,41.0,0.0,9.0,8.0,8.0,20.0,0.122,0.049,0.452,,,,,,,,,
+85,Waukesha Foxes,Liam Erickson,batter,SS,0.286,0.351,0.494,0.845,140.0,40.0,2.0,14.0,10.0,15.0,18.0,0.116,0.097,0.591,,,,,,,,,
+86,Waukesha Foxes,Luke Lehmann,batter,LF,0.264,0.304,0.365,0.669,159.0,41.0,0.0,5.0,5.0,11.0,24.0,0.141,0.065,0.463,,,,,,,,,
+87,Waukesha Foxes,Xavier Gonzalez,batter,CF,0.277,0.372,0.414,0.786,193.0,53.0,1.0,8.0,8.0,8.0,29.0,0.144,0.04,0.514,,,,,,,,,
+88,Waukesha Foxes,Carter Turner,batter,RF,0.27,0.308,0.37,0.678,213.0,57.0,1.0,29.0,6.0,5.0,24.0,0.11,0.023,0.607,,,,,,,,,
+89,Waukesha Foxes,Jake Strang,batter,DH,0.253,0.3,0.348,0.648,129.0,32.0,1.0,11.0,3.0,5.0,41.0,0.306,0.037,0.237,,,,,,,,,
+90,Waukesha Foxes,Michael Ingram,batter,OF,0.267,0.353,0.44,0.793,123.0,32.0,0.0,11.0,3.0,10.0,19.0,0.143,0.075,0.529,,,,,,,,,
+91,Waukesha Foxes,Zach Evans,pitcher,SP,,,,,,,,,,,,,,0.535,3.1,1.386,8.19,3.76,84.4,1.0,0.0,0.0,6.0
+92,Waukesha Foxes,Ryan Hagen,pitcher,SP,,,,,,,,,,,,,,0.256,3.81,1.515,6.2,3.82,11.9,0.0,4.0,0.0,7.0
+93,Waukesha Foxes,Caleb Schmidt,pitcher,SP,,,,,,,,,,,,,,0.577,2.88,1.317,10.84,2.74,68.1,3.0,1.0,0.0,5.0
+94,Waukesha Foxes,Cole Davis,pitcher,SP,,,,,,,,,,,,,,0.529,3.87,1.153,8.84,3.05,25.8,3.0,1.0,0.0,5.0
+95,Waukesha Foxes,Michael Palmer,pitcher,RP,,,,,,,,,,,,,,0.523,3.17,1.283,8.73,4.25,25.8,1.0,1.0,1.0,4.0
+96,Waukesha Foxes,Seth Pierson,pitcher,RP,,,,,,,,,,,,,,0.51,2.83,1.239,8.49,2.45,29.6,1.0,2.0,4.0,4.0
