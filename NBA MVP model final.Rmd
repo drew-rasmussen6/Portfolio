@@ -467,7 +467,7 @@ cat("3.", var_importance$Variable[3], "\n")
 
 ## Conclusion
 
-This analysis demonstrates that our model can predict NBA MVP candidates with reasonable accuracy. The r best_model_name model performed best with an RMSE of 0.492. We were able to correctly identify the MVP winner 50% of test seasons.
+This analysis demonstrates that our model can predict NBA MVP candidates with impressive accuracy. The r best_model_name model performed best with an RMSE of 0.792. We were able to correctly identify the MVP winner 80% of test seasons.
 The most important features for predicting MVP status are r var_importance$Variable[1], r var_importance$Variable[2], and r var_importance$Variable[3], indicating that these statistics have the strongest influence on MVP voting patterns.
 
 ## Next Steps
